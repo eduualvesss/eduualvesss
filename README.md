@@ -2,7 +2,7 @@
 
 ### Alves Nunes
 
-- 🌱 I'm currently learning **Análise e Desenvolvimento de Sistemas**
+- 🌱 I'm currently learning **Systems Analysis and Development**
 
 - 📫 How to reach me **alvesnunescarloseduardo@gmail.com**
 
