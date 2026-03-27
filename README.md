@@ -18,6 +18,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,python" />
+    <img src="https://skillicons.dev/icons?ic,cpp" />
   </a>
 </p>
