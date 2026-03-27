@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://github.com/eduualvesss " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eduualvesss " height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/eduualvesss" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Eduardo Alves Nunes" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Eduardo Alves Nunes" height="30" width="40" />
 </a>
 <a href="https://instagram.com/eduualvesss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduualvesss" height="30" width="40" /></a>
 <a href="https://discord.gg/eduualvessso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eduualvessso" height="30" width="40" /></a>
