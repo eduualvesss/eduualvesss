@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+</p>
+
 # Hi 👋, I'm Carlos Eduardo
 
 ### Alves Nunes
@@ -22,4 +26,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </p>
