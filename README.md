@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Carlos Eduardo
 
-### Alves Nunes
+### Alves Nunes ![steamhappy](https://akamaihd.net)
 
 - 🌱 I'm currently learning **Systems Analysis and Development**
 
