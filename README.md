@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider" />
-</p>
 
 ```python
 class Eduardo():
@@ -18,7 +15,3 @@ class Eduardo():
 if __name__ == '__main__':
     me = Eduardo()
 ```
-
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon divider" />
-</p>
