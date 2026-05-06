@@ -8,6 +8,7 @@ class Eduardo():
     self.location = "404 not found"
     self.web = "404 not found"
     self.hardskill = "C,C++,HTML,JavaScript"
+    self.desires = "Hardware Repair"
   
   def __str__(self):
     return self.name
