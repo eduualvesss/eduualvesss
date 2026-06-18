@@ -5,9 +5,9 @@ class Eduardo():
   def __init__(self):
     self.name = "Eduardo_Alves"
     self.username = "eduualvesss"
-    self.location = "404 not found"
+    self.location = "Recife,PE"
     self.web = "404 not found"
-    self.hardskill = "C,C++,HTML,JavaScript"
+    self.hardskill = "C,C++,HTML,CSS,JavaScript,GIT"
     self.desires = "Hardware Repair"
   
   def __str__(self):
