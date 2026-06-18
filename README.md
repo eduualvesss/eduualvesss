@@ -16,3 +16,11 @@ class Eduardo():
 if __name__ == '__main__':
     me = Eduardo()
 ```
+
+
+###  My Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduualvesss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduualvesss&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" alt="Top Langs" height="190">
+</div>
