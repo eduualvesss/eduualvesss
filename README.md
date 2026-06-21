@@ -7,7 +7,7 @@ class Eduardo():
     self.username = "eduualvesss"
     self.location = "Recife,PE"
     self.web = "404 not found"
-    self.hardskill = "C,C++,HTML,CSS,JavaScript,GIT"
+    self.hardskill = "C,C++,HTML,CSS,JavaScript,Java,GIT"
     self.desires = "Hardware Repair"
   
   def __str__(self):
