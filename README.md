@@ -20,7 +20,5 @@ if __name__ == '__main__':
 
 ###  My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduualvesss&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduualvesss&theme=transparent&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" alt="Top Langs" height="190">
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eduualvesss&rank_icon=github&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=eduualvesss&rank_icon=github&show_icons=true&include_all_commits=true&theme=great-gatsby)
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=eduualvesss&langs_count=5&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=eduualvesss&langs_count=5&theme=great-gatsby)
