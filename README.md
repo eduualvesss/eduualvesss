@@ -2,25 +2,11 @@
 
 Recife, PE. Estudante de ADS e desenvolvedor back-end.
 
-```python
-class Eduardo:
-
-    def __init__(self):
-        self.name = "Eduardo Alves"
-        self.username = "eduualvesss"
-        self.location = "Recife, PE"
-        self.web = "myportifolio-ivory-delta.vercel.app"
-        self.hardskills = ["C", "C++", "Java", "JavaScript", "TypeScript", "Node.js", "PostgreSQL", "Git"]
-        self.building = "backends-rh-porto, sistema de RH pra Porto Digital"
-        self.wants = "consertar hardware"
-
-    def __str__(self):
-        return self.name
-
-
-if __name__ == "__main__":
-    me = Eduardo()
-```
+- Usuário: `eduualvesss`
+- Portifolio: `eduualvesss-portifolio.vercel.app`
+- Stack: C, C++, Java, JavaScript, TypeScript, Node.js, PostgreSQL, Git
+- Construindo: backends-rh-porto, sistema de RH pra Porto Digital
+- Gostos: consertar hardware, motos, rock e jogos de FPS
 
 ---
 
@@ -56,7 +42,7 @@ Back-end do sistema de RH da Porto Digital. Node.js, Express, PostgreSQL, JWT.
 
 **Portfólio**
 Site que puxa dados do GitHub em tempo real. React/Vite no front, Express no back.
-`myportifolio-ivory-delta.vercel.app`
+`eduualvesss-portifolio.vercel.app`
 
 ---
 
@@ -70,6 +56,7 @@ Site que puxa dados do GitHub em tempo real. React/Vite no front, Express no bac
 
 ## Stats
 
+<!-- instancia publica do github-readme-stats.vercel.app as vezes fica pausada/rate limited. self-host resolve: github.com/anuraghazra/github-readme-stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=eduualvesss&show_icons=true&theme=github_dark&hide_border=true&border_radius=0)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduualvesss&layout=compact&theme=github_dark&hide_border=true&border_radius=0)
 
