@@ -57,8 +57,8 @@ Site que puxa dados do GitHub em tempo real. React/Vite no front, Express no bac
 ## Stats
 
 <!-- instancia publica do github-readme-stats.vercel.app as vezes fica pausada/rate limited. self-host resolve: github.com/anuraghazra/github-readme-stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=eduualvesss&show_icons=true&theme=github_dark&hide_border=true&border_radius=0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduualvesss&layout=compact&theme=github_dark&hide_border=true&border_radius=0)
+![Stats](https://github-stats-extended.vercel.app/api?username=eduualvesss&show_icons=true&theme=github_dark&hide_border=true&border_radius=0)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=eduualvesss&layout=compact&theme=github_dark&hide_border=true&border_radius=0)
 
 ---
 
