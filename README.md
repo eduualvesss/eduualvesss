@@ -29,7 +29,7 @@ Recife, PE. Estudante de ADS e desenvolvedor back-end.
 ## Em andamento
 
 - `backends-rh-porto`: back-end Node.js/Express + PostgreSQL do sistema de RH da Porto Digital. Auth com JWT, hash com bcrypt, audit log, banco migrado pra Neon.
-- Debloat do Windows 10 com ReviOS/Winhance, mantendo Store, Fotos e Xbox Live.
+- Debloat do Windows 10 com ReviOS/Winhance + Scripts .Reg e .bat autorais
 - Tuning de JVM (G1GC) e port do mod PerformanceReader entre versões do Minecraft.
 
 ---
