@@ -3,6 +3,7 @@
 Recife, PE • Estudante de ADS e desenvolvedor back-end.
 
 - **Portfólio:** [eduualvesss-portifolio.vercel.app](https://eduualvesss-portifolio.vercel.app)
+- **Linkedin:** [linkedin.com/in/eduualvesss/](https://www.linkedin.com/in/eduualvesss/)
 - **Foco atual:** Desenvolvimento back-end e arquitetura de sistemas no [Porto Digital](https://www.portodigital.org)
 - **Interesses:** Hardware, rock, jogos de FPS/sobrevivência e emulação retrô
 
