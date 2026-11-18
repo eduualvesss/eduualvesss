@@ -1,12 +1,10 @@
 # Eduardo Alves
 
-Recife, PE. Estudante de ADS e desenvolvedor back-end.
+Recife, PE • Estudante de ADS e desenvolvedor back-end.
 
-- Usuário: `eduualvesss`
-- Portifolio: `eduualvesss-portifolio.vercel.app`
-- Stack: C, C++, Java, JavaScript, TypeScript, Node.js, PostgreSQL, Git
-- Construindo: backends-rh-porto, sistema de RH pra Porto Digital
-- Gostos: consertar hardware, motos, rock e jogos de FPS
+- **Portfólio:** [eduualvesss-portifolio.vercel.app](https://eduualvesss-portifolio.vercel.app)
+- **Foco atual:** Desenvolvimento back-end e arquitetura de sistemas no [Porto Digital](https://www.portodigital.org)
+- **Interesses:** Hardware, rock, jogos de FPS/sobrevivência e emulação retrô
 
 ---
 
@@ -28,29 +26,24 @@ Recife, PE. Estudante de ADS e desenvolvedor back-end.
 
 ## Em andamento
 
-- `backends-rh-porto`: back-end Node.js/Express + PostgreSQL do sistema de RH da Porto Digital. Auth com JWT, hash com bcrypt, audit log, banco migrado pra Neon.
-- Debloat do Windows 10 com ReviOS/Winhance + Scripts .Reg e .bat autorais
-- Tuning de JVM (G1GC) e port do mod PerformanceReader entre versões do Minecraft.
+- **FarolHUB:** Sistema de RH do Porto Digital, onde atuo no back-end com Node.js/Express e PostgreSQL — autenticação JWT, hash com bcrypt, audit log e banco hospedado na Neon.
+- **Otimização de Windows 10:** Debloat com ReviOS/Winhance e scripts `.reg` e `.bat` autorais.
+- **PerformanceReader:** Tuning de JVM (G1GC) e port do mod entre versões do Minecraft (Fabric).
 
 ---
 
 ## Projetos
 
-**backends-rh-porto**
-Back-end do sistema de RH da Porto Digital. Node.js, Express, PostgreSQL, JWT.
-`github.com/eduualvesss/backends-rh-porto`
-
-**Portfólio**
-Site que puxa dados do GitHub em tempo real. React/Vite no front, Express no back.
-`eduualvesss-portifolio.vercel.app`
+- **FarolHUB** *(repositório privado)* — Sistema de RH do Porto Digital. Responsável pelo back-end (`Node.js`, `Express`, `PostgreSQL`, `JWT`).
+- **[Portfólio](https://eduualvesss-portifolio.vercel.app)** — Site pessoal que consome dados do GitHub em tempo real (`React`, `Vite`, `Express`).
 
 ---
 
 ## Fora do código
 
-- PC com Xeon E5-2670 v3 modificado, GTX 1060 6GB, 16GB DDR4.
-- Moto: Honda CB Twister 250F.
-- Modding de Minecraft com Fabric.
+- **Setup:** PC com Xeon E5-2670 v3 (BIOS modificada), GTX 1060 6GB e 16GB DDR4.
+- **Jogos:** DayZ, Valorant, CSGO e emulação de consoles retrô.
+- **Lazer:** Tuning/manutenção de hardware e rock.
 
 ---
 
@@ -62,4 +55,4 @@ Site que puxa dados do GitHub em tempo real. React/Vite no front, Express no bac
 
 ---
 
-`github.com/eduualvesss`
+[github.com/eduualvesss](https://github.com/eduualvesss)
